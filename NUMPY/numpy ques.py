@@ -78,7 +78,16 @@
 # marks = np.array([75,80,65,90,85])
 # print(marks)
 
+#Q-15 Create arr = np.array[10,20,30,40,50].Print the first elements?
+# import numpy as np
+# arr = np.array([10,20,30,40,50])
+# print(arr[0])
 
+#Q-16 Using arr = np.array([10,20,30,40,50]).Print the third element?
+# import numpy as np
+# arr = np.array([10,20,30,40,50])
+# print(arr[2])
+#Q-17 
 
 
 
